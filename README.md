@@ -3,7 +3,9 @@ Batch criado para transferir arquivos na rede sem GPO
 
 Instruções de uso:
 
---Os endereços de destino devem ser inseridos no arquivo "StartCopy.cmd", "timeout" se refere ao tempo para proxima execução, deve ser alterado conforme o tempo estimado de transferencia para evitar sobrecarregamento na máquina de origem e na rede. Ex:
+--Os endereços de destino devem ser inseridos no arquivo "StartCopy.cmd", "timeout" se refere ao tempo para proxima execução, deve ser alterado conforme o tempo estimado de transferencia para evitar sobrecarregamento na máquina de origem e na rede. 
+
+Ex:
 START Parameters.cmd 192.168.1.1 FINANCEIRO01
 TIMEOUT 90
 
