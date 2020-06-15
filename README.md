@@ -14,6 +14,7 @@ TIMEOUT 90
 --Após copiar os arquivos para pasta citada deve-se alterar os respectivos nomes no arquivo "Parameters.cmd", na linha 9. Substuindo "file1,exe" e "file2.ini" pelos respectivos nomes.
 
 --OBS: Não há limite de quantidade de arquivos a serem transferidos, caso seja de preferencia realizar a transferencia de todos que se encontram na pasta, os nomes podem ser trocados por asteristico.
+
 EX: Trocar \c$\DIRECTORY_NAME FILE1.exe  FILE2.INI  --> \c$\DIRECTORY_NAME *
 
 
